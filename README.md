@@ -4,7 +4,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-Um crud simples desenvolvido para uma oportunidade de estagio, um Crudo utilizando firebase e android nativo, sendo um crudo para cadastramento de produtos
+Um crud simples desenvolvido para uma oportunidade de estagio, Crud utilizando firebase como banco de dados e android nativo para desenvolvimento do app, sendo um crud para cadastramento de produtos
 exclusao e exportação 
 
 
